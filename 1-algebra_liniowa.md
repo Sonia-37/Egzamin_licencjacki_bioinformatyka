@@ -112,6 +112,8 @@ Szczególny przypadek (tożsamość Eulera): $e^{i\pi}+1=0$. Postać wykładnicz
 
 **Twierdzenie.** Każdy wielomian zespolony stopnia $n\ge 1$ ma w $\mathbb{C}$ dokładnie $n$ pierwiastków (liczonych z krotnościami). $\mathbb{C}$ jest **ciałem algebraicznie domkniętym**.
 
+$P(x)=c(x-a_1)(x-a_2)...(x-a_n)$
+
 Konsekwencja praktyczna: dla wielomianów o współczynnikach rzeczywistych pierwiastki zespolone występują **parami sprzężonymi** ($z$ i $\bar z$).
 
 ### 1.8. Czego wymaga karta przedmiotu (U1)
