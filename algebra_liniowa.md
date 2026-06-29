@@ -1,8 +1,5 @@
 # Algebra liniowa z geometrią — kompletne notatki na egzamin
 
-> Bioinformatyka, UJ — przedmiot obowiązkowy, semestr 1. Egzamin pisemny + zaliczenie ćwiczeń.
-> Notatki obejmują **wszystkie** zagadnienia z karty przedmiotu: teoria, definicje, twierdzenia, metody rozwiązywania zadań, wyjątki i pułapki.
-
 ## Spis treści
 
 1. [Liczby zespolone](#1-liczby-zespolone)
